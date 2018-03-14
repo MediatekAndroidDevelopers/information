@@ -20,4 +20,9 @@ Where should I report bugs?
 ---
 - __[Issue Tracker](https://bitbucket.org/maadteam/mados_issue_tracker/issues?status=new&status=open)__
 
+---
+The rom is not properly translated to my language...What can be done to fix this?
+---
+- __[How to translate madOS](https://github.com/MediatekAndroidDevelopers/mados_custom_strings)__
+
 more to come...
