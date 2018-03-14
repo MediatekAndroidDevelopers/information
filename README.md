@@ -11,10 +11,13 @@ In order for us to be able to support your device, some criterias have to be met
 * collect money in the community for us to buy a new/used device ourselves
 * contact the vendor of your phone and ask them to cooperate with us
 * be creative...
-
 ---
 don't waste your and our time by asking to support your device, if one of these criterias can't be met.
 ---
 
+---
+Where should I report bugs?
+---
+- __[Issue Tracker](https://bitbucket.org/maadteam/mados_issue_tracker/issues?status=new&status=open)__
 
 more to come...
