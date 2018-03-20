@@ -42,6 +42,11 @@ We don't know. We don't port roms! We never did nor are we ever going to do so.
 Feel free to try/do whatever you want, but don't ask for help! We simply don't know the answer.
 
 ---
+Can you build a rom with 3.4 / 3.18.19 / xyz kernel? Or a 32bit rom? I want to port your rom and i don't have kernel source code
+---
+- No. We don't build any specific roms or kernels we don't need ourselves...We would be busy building stuff for others all day...
+
+---
 How can I compile roms/kernels for mediatek devices myself? How can I fix compile error [insert your error here]? My compiled rom does not boot, what do I need to do to fix it?
 ---
--__[compile stuff for mtk](https://forum.xda-developers.com/showthread.php?t=2274332)__
+- __[compile stuff for mtk](https://forum.xda-developers.com/showthread.php?t=2274332)__
