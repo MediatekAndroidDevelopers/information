@@ -31,9 +31,11 @@ I need help for doing [insert your issue here]. Who can help me?
 ---
 Please check the xda developers thread of your rom.
 Check below links to find it:
-- __[DerTeufel1980 roms](https://forum.xda-developers.com/search.php?searchid=445373758)__
-- __[Fire855 roms](https://forum.xda-developers.com/search.php?searchid=445373809)__
-- __[Superdragonpt roms](https://forum.xda-developers.com/search.php?searchid=445373833)__
+- __[DerTeufel1980 roms](https://forum.xda-developers.com/member.php?u=4196889)__
+- __[Fire855 roms](https://forum.xda-developers.com/member.php?u=4761533)__
+- __[Superdragonpt roms](https://forum.xda-developers.com/member.php?u=5238428)__
+
+Then hit 'statistics' and 'Find all threads started by ...'
 
 ---
 How can I port your rom to my phone?
